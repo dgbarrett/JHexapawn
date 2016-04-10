@@ -7,3 +7,6 @@ Usage
 -----
 
 To build and run the Hexapawn game, type 'make run', this will launch the GUI associated with the program.
+
+*Note* Currently designed for usage in Mac/Linux environments.
+
